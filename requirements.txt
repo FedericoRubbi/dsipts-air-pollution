@@ -1,4 +1,4 @@
-dsipts
+-e ./DSIPTS/dsipts
 jupyter
 notebook
 ipykernel
