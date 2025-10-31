@@ -1,0 +1,5 @@
+dsipts
+jupyter
+notebook
+ipykernel
+pandas
