@@ -8,3 +8,9 @@ __pycache__/
 .vscode/
 
 data/
+
+# DSIPTS mess
+*.pkl
+*.ckpt
+.aim
+loss.csv
