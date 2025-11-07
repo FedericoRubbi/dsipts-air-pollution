@@ -102,7 +102,13 @@ python --version
 
 ## Install Project Dependencies
 
-Install the required packages for the notebook:
+First, update the submodules 
+
+```bash
+git submodule update --init --recursive
+```
+
+Then, install the required packages for the notebook:
 
 ```bash
 pip install -r requirements.txt
